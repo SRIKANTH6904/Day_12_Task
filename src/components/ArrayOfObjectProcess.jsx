@@ -6,7 +6,7 @@ const ArrayOfObjectProcess = () => {
 
       personalDetails: {
         name: "SRIKANTH T.K",
-        age: 22,
+        age: 21,
         gender: "Male",
         dob: "09-06-2004",
         city: "Chennai",
